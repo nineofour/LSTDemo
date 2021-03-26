@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "LSTDemo"
-  spec.version      = "0.0.2"
-  spec.summary      = test."
+  spec.version      = "0.0.3"
+  spec.summary      = "test"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
                    test create sdk
 
-  spec.homepage     = "http://EXAMPLE/LSTDemo"
+  spec.homepage     = "https://github.com/nineofour/LSTDemo.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
